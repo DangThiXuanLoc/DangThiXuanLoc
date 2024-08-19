@@ -1,0 +1,10 @@
+D:\2212405_HomeWork\Trang35\bin\Debug\Trang35.exe.config
+D:\2212405_HomeWork\Trang35\bin\Debug\Trang35.exe
+D:\2212405_HomeWork\Trang35\bin\Debug\Trang35.pdb
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.csproj.AssemblyReference.cache
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.LinkLable.resources
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.Properties.Resources.resources
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.csproj.GenerateResource.cache
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.csproj.CoreCompileInputs.cache
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.exe
+D:\2212405_HomeWork\Trang35\obj\Debug\Trang35.pdb

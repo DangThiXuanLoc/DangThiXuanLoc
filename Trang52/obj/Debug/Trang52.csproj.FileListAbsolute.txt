@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\bin\Debug\Trang52.exe.config
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\bin\Debug\Trang52.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\bin\Debug\Trang52.pdb
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.ListBoxForm.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.Properties.Resources.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang52\obj\Debug\Trang52.pdb

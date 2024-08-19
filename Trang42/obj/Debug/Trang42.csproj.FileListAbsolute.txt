@@ -1,0 +1,10 @@
+D:\2212405_HomeWork\Trang42\bin\Debug\Trang42.exe.config
+D:\2212405_HomeWork\Trang42\bin\Debug\Trang42.exe
+D:\2212405_HomeWork\Trang42\bin\Debug\Trang42.pdb
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.csproj.AssemblyReference.cache
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.Properties.Resources.resources
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.SubmitForm.resources
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.csproj.GenerateResource.cache
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.csproj.CoreCompileInputs.cache
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.exe
+D:\2212405_HomeWork\Trang42\obj\Debug\Trang42.pdb

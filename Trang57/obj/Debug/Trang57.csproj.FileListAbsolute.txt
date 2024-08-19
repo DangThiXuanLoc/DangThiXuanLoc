@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\bin\Debug\Trang57.exe.config
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\bin\Debug\Trang57.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\bin\Debug\Trang57.pdb
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.ButtonForm.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.Properties.Resources.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang57\obj\Debug\Trang57.pdb

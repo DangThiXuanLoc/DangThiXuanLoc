@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\bin\Debug\Trang56.exe.config
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\bin\Debug\Trang56.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\bin\Debug\Trang56.pdb
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.Properties.Resources.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.RadioButton.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang56\obj\Debug\Trang56.pdb

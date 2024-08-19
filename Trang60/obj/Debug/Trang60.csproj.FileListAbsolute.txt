@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\bin\Debug\Trang60.exe.config
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\bin\Debug\Trang60.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\bin\Debug\Trang60.pdb
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.CheckListBoxForm.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.Properties.Resources.resources
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.exe
+C:\Users\Administrator\Downloads\2212405_HomeWork\Trang60\obj\Debug\Trang60.pdb
